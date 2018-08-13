@@ -1,0 +1,17 @@
+{
+  "python.pythonPath": "C:\\Users\\unicorn10\\envs\\djangoEnv\\Scripts\\python.exe",
+  "python.formatting.provider": "autopep8",
+  "python.formatting.autopep8Args": [
+    "--max-line-length",
+    "120",
+    "--experimental"
+  ],
+  "python.linting.pep8Enabled": true,
+  "python.linting.pylintPath": "C:\\Users\\unicorn10\\Envs\\djangoEnv\\Scripts\\pylint",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django"
+  ],
+  "python.linting.pylintEnabled": true,
+  "editor.formatOnSave": true
+}
