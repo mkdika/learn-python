@@ -50,3 +50,9 @@ for k, v in hero.items():
 print()
 print(f"Is 'name' in hero: {'name' in hero}")  # true
 print(f"Is 'male' in hero: {'male' in hero}")  # false
+
+# add element
+
+hero.update({'gold': 9999})
+for k, v in hero.items():
+    print(f"{k} -> {v}")

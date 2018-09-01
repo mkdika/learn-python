@@ -8,7 +8,6 @@ arr = [1, 2, 3, 4, 5]
 
 print(arr)
 
-
 # get & manipulate by index
 
 arr[0] = True
